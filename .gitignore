@@ -25,6 +25,8 @@
 *.log
 *.sql
 *.sqlite
+*.db
+mergington_activities.db
 
 # OS generated files #
 ######################
